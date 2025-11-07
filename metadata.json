@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Multi-Modal AI Suite",
+  "description": "An all-in-one application powered by the Gemini API. It features an AI image detector to distinguish between real and AI-generated images, a powerful image editor that modifies images based on text prompts, and an intelligent chatbot for conversational AI.",
+  "requestFramePermissions": []
+}
